@@ -174,7 +174,7 @@
 
 <header class="site">
   <div class="avatar">
-    <img src="assets/nahid_photo.jpg">
+    <img src="assets/nahid_photo.jpg" alt="Md. Nahid Hasan">
   </div>
 
   <div>
