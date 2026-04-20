@@ -174,7 +174,7 @@
 
 <header class="site">
   <div class="avatar">
-    <img src="assets/nahid_photo.jpg">
+    <img src="https://raw.githubusercontent.com/nhsajal/nhsajal.github.io/main/assets/nahid_photo.jpg" alt="Nahid Hasan">
   </div>
 
   <div>
