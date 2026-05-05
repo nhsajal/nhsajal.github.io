@@ -6,7 +6,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Md. Nahid Hasan — Faculty | BUET</title>
-  <meta name="description" content="Md. Nahid Hasan — Lecturer, Department of Mathematics, BUET." />
+  <meta name="description" content="Md. Nahid Hasan — Assistant Professor, Department of Mathematics, BUET." />
 
   <style>
     :root {
