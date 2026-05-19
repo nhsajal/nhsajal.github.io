@@ -179,7 +179,7 @@
 
   <div>
     <h1>Md. Nahid Hasan</h1>
-    <p class="affil">Lecturer, Mathematics — BUET</p>
+    <p class="affil">Assistant Professor, Mathematics — BUET</p>
     <p class="muted">Computational Mathematics · ML · Modeling</p>
 
     <nav class="main">
